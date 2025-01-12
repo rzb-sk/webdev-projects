@@ -1,0 +1,1 @@
+All the capstone projects in this Udemy webdev course by Angela Yu are in this folder.
